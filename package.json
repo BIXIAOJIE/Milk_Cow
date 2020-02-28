@@ -1,0 +1,13 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "---\r home: true\r heroImage: /images/logo.jpg\r heroText: CatLog Document\r actionText: 留言->\r actionLink: /zh/guide/\r footer: MIT Licensed | Copyright © 2018-present CatLog\r ---",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx vuepress dev docs",
+    "build": "npx vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
