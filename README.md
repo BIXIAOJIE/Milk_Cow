@@ -1,6 +1,6 @@
 # document
 
-![mark](http://q6auazi5s.bkt.clouddn.com/blog/20200228/D5d4X4dfepYt.png?imageslim)
+![mark](http://neco-backupneco.oss-cn-beijing.aliyuncs.com/blog/20200228/093617570.png)
 
 > 这是我的博客,我将它部署在我的阿里云服务器上面。
 
@@ -19,5 +19,5 @@
 
 ## 图片 
 
-![mark](http://q6auazi5s.bkt.clouddn.com/blog/20200228/3cbXzcegdqz7.png?imageslim)
+![mark](http://neco-backupneco.oss-cn-beijing.aliyuncs.com/blog/20200228/093557807.png)
 
