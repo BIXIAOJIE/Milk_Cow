@@ -1,4 +1,4 @@
-# document
+# Milk_Cow 奶牛猫
 
 <img src="http://q6auazi5s.bkt.clouddn.com/blog/20200228/PpkrKvfLr8Sp.png?imageslim" alt="mark" style="zoom:80%;" />
 
@@ -15,7 +15,7 @@
 
 ## 关于document
 
-- document是一只猫，“如同我在GitHub上所存储的其他项目那样”
+- Milk_Cow是一只猫，“如同我在GitHub上所存储的其他项目那样”
 
 ## 图片 
 
